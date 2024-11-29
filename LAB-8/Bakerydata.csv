@@ -1,0 +1,549 @@
+Transaction,Item,date_time,period_day,weekday_weekend
+1,Bread,10/30/2016 9:58,morning,weekend
+2,Scandinavian,10/30/2016 10:05,morning,weekend
+2,Scandinavian,10/30/2016 10:05,morning,weekend
+3,Hot chocolate,10/30/2016 10:07,morning,weekend
+3,Jam,10/30/2016 10:07,morning,weekend
+3,Cookies,10/30/2016 10:07,morning,weekend
+4,Muffin,10/30/2016 10:08,morning,weekend
+5,Coffee,10/30/2016 10:13,morning,weekend
+5,Pastry,10/30/2016 10:13,morning,weekend
+5,Bread,10/30/2016 10:13,morning,weekend
+6,Medialuna,10/30/2016 10:16,morning,weekend
+6,Pastry,10/30/2016 10:16,morning,weekend
+6,Muffin,10/30/2016 10:16,morning,weekend
+7,Medialuna,10/30/2016 10:19,morning,weekend
+7,Pastry,10/30/2016 10:19,morning,weekend
+7,Coffee,10/30/2016 10:19,morning,weekend
+7,Tea,10/30/2016 10:19,morning,weekend
+8,Pastry,10/30/2016 10:20,morning,weekend
+8,Bread,10/30/2016 10:20,morning,weekend
+9,Bread,10/30/2016 10:21,morning,weekend
+9,Muffin,10/30/2016 10:21,morning,weekend
+10,Scandinavian,10/30/2016 10:25,morning,weekend
+10,Medialuna,10/30/2016 10:25,morning,weekend
+11,Bread,10/30/2016 10:27,morning,weekend
+11,Medialuna,10/30/2016 10:27,morning,weekend
+11,Bread,10/30/2016 10:27,morning,weekend
+12,Jam,10/30/2016 10:30,morning,weekend
+12,Coffee,10/30/2016 10:30,morning,weekend
+12,Tartine,10/30/2016 10:30,morning,weekend
+12,Pastry,10/30/2016 10:30,morning,weekend
+12,Tea,10/30/2016 10:30,morning,weekend
+13,Basket,10/30/2016 10:31,morning,weekend
+13,Bread,10/30/2016 10:31,morning,weekend
+13,Coffee,10/30/2016 10:31,morning,weekend
+14,Bread,10/30/2016 10:32,morning,weekend
+14,Medialuna,10/30/2016 10:32,morning,weekend
+14,Pastry,10/30/2016 10:32,morning,weekend
+15,Mineral water,10/30/2016 10:34,morning,weekend
+15,Scandinavian,10/30/2016 10:34,morning,weekend
+16,Bread,10/30/2016 10:37,morning,weekend
+16,Medialuna,10/30/2016 10:37,morning,weekend
+16,Coffee,10/30/2016 10:37,morning,weekend
+17,Hot chocolate,10/30/2016 10:38,morning,weekend
+18,Farm House,10/30/2016 10:41,morning,weekend
+19,Farm House,10/30/2016 10:43,morning,weekend
+19,Bread,10/30/2016 10:43,morning,weekend
+20,Bread,10/30/2016 10:45,morning,weekend
+20,Medialuna,10/30/2016 10:45,morning,weekend
+21,Coffee,10/30/2016 10:49,morning,weekend
+21,Coffee,10/30/2016 10:49,morning,weekend
+21,Medialuna,10/30/2016 10:49,morning,weekend
+21,Bread,10/30/2016 10:49,morning,weekend
+22,Jam,10/30/2016 10:52,morning,weekend
+23,Scandinavian,10/30/2016 10:53,morning,weekend
+23,Muffin,10/30/2016 10:53,morning,weekend
+24,Bread,10/30/2016 10:54,morning,weekend
+25,Scandinavian,10/30/2016 10:55,morning,weekend
+26,Fudge,10/30/2016 10:56,morning,weekend
+27,Scandinavian,10/30/2016 11:02,morning,weekend
+28,Coffee,10/30/2016 11:03,morning,weekend
+28,Bread,10/30/2016 11:03,morning,weekend
+29,Bread,10/30/2016 11:05,morning,weekend
+29,Jam,10/30/2016 11:05,morning,weekend
+30,Bread,10/30/2016 11:07,morning,weekend
+31,Basket,10/30/2016 11:12,morning,weekend
+32,Scandinavian,10/30/2016 11:16,morning,weekend
+32,Muffin,10/30/2016 11:16,morning,weekend
+33,Coffee,10/30/2016 11:22,morning,weekend
+34,Coffee,10/30/2016 11:25,morning,weekend
+34,Muffin,10/30/2016 11:25,morning,weekend
+35,Muffin,10/30/2016 11:27,morning,weekend
+35,Scandinavian,10/30/2016 11:27,morning,weekend
+36,Tea,10/30/2016 11:33,morning,weekend
+36,Bread,10/30/2016 11:33,morning,weekend
+37,Coffee,10/30/2016 11:37,morning,weekend
+37,Bread,10/30/2016 11:37,morning,weekend
+38,Bread,10/30/2016 11:42,morning,weekend
+38,Tea,10/30/2016 11:42,morning,weekend
+39,Scandinavian,10/30/2016 11:44,morning,weekend
+40,Juice,10/30/2016 11:55,morning,weekend
+40,Tartine,10/30/2016 11:55,morning,weekend
+40,Coffee,10/30/2016 11:55,morning,weekend
+40,Muffin,10/30/2016 11:55,morning,weekend
+41,Scandinavian,10/30/2016 11:57,morning,weekend
+42,Bread,10/30/2016 11:57,morning,weekend
+42,Tea,10/30/2016 11:57,morning,weekend
+43,Scandinavian,10/30/2016 12:00,afternoon,weekend
+43,Fudge,10/30/2016 12:00,afternoon,weekend
+44,Coffee,10/30/2016 12:05,afternoon,weekend
+44,Medialuna,10/30/2016 12:05,afternoon,weekend
+45,Coffee,10/30/2016 12:08,afternoon,weekend
+45,Hot chocolate,10/30/2016 12:08,afternoon,weekend
+45,Medialuna,10/30/2016 12:08,afternoon,weekend
+46,Coffee,10/30/2016 12:09,afternoon,weekend
+47,Ella's Kitchen Pouches,10/30/2016 12:15,afternoon,weekend
+47,Juice,10/30/2016 12:15,afternoon,weekend
+47,Bread,10/30/2016 12:15,afternoon,weekend
+47,Muffin,10/30/2016 12:15,afternoon,weekend
+47,Jam,10/30/2016 12:15,afternoon,weekend
+48,Coffee,10/30/2016 12:17,afternoon,weekend
+49,Coffee,10/30/2016 12:23,afternoon,weekend
+49,Coffee,10/30/2016 12:23,afternoon,weekend
+49,Medialuna,10/30/2016 12:23,afternoon,weekend
+50,Bread,10/30/2016 12:25,afternoon,weekend
+50,Victorian Sponge,10/30/2016 12:25,afternoon,weekend
+51,Bread,10/30/2016 12:26,afternoon,weekend
+52,Scandinavian,10/30/2016 12:28,afternoon,weekend
+54,Bread,10/30/2016 12:33,afternoon,weekend
+55,Frittata,10/30/2016 12:38,afternoon,weekend
+55,Coffee,10/30/2016 12:38,afternoon,weekend
+55,Tea,10/30/2016 12:38,afternoon,weekend
+55,Hearty & Seasonal,10/30/2016 12:38,afternoon,weekend
+56,Coffee,10/30/2016 12:39,afternoon,weekend
+56,Frittata,10/30/2016 12:39,afternoon,weekend
+57,Scandinavian,10/30/2016 12:45,afternoon,weekend
+58,Victorian Sponge,10/30/2016 12:59,afternoon,weekend
+58,Hot chocolate,10/30/2016 12:59,afternoon,weekend
+58,Tea,10/30/2016 12:59,afternoon,weekend
+58,Soup,10/30/2016 12:59,afternoon,weekend
+59,Tea,10/30/2016 13:02,afternoon,weekend
+60,Cookies,10/30/2016 13:14,afternoon,weekend
+60,Coffee,10/30/2016 13:14,afternoon,weekend
+60,Juice,10/30/2016 13:14,afternoon,weekend
+60,Coffee,10/30/2016 13:14,afternoon,weekend
+61,Coffee,10/30/2016 13:15,afternoon,weekend
+62,Pick and Mix Bowls,10/30/2016 13:24,afternoon,weekend
+62,Hearty & Seasonal,10/30/2016 13:24,afternoon,weekend
+62,Hearty & Seasonal,10/30/2016 13:24,afternoon,weekend
+62,Coffee,10/30/2016 13:24,afternoon,weekend
+62,Smoothies,10/30/2016 13:24,afternoon,weekend
+62,Coffee,10/30/2016 13:24,afternoon,weekend
+63,Coffee,10/30/2016 13:33,afternoon,weekend
+64,Cake,10/30/2016 13:34,afternoon,weekend
+65,Tartine,10/30/2016 13:37,afternoon,weekend
+65,Mighty Protein,10/30/2016 13:37,afternoon,weekend
+65,Tea,10/30/2016 13:37,afternoon,weekend
+65,Coffee,10/30/2016 13:37,afternoon,weekend
+66,Hearty & Seasonal,10/30/2016 13:40,afternoon,weekend
+66,Frittata,10/30/2016 13:40,afternoon,weekend
+66,Mineral water,10/30/2016 13:40,afternoon,weekend
+67,Hearty & Seasonal,10/30/2016 13:46,afternoon,weekend
+67,Mineral water,10/30/2016 13:46,afternoon,weekend
+67,Muffin,10/30/2016 13:46,afternoon,weekend
+68,Frittata,10/30/2016 13:49,afternoon,weekend
+68,Coffee,10/30/2016 13:49,afternoon,weekend
+68,Tea,10/30/2016 13:49,afternoon,weekend
+68,Scandinavian,10/30/2016 13:49,afternoon,weekend
+68,Chicken sand,10/30/2016 13:49,afternoon,weekend
+69,Bread,10/30/2016 13:51,afternoon,weekend
+69,Tea,10/30/2016 13:51,afternoon,weekend
+69,Victorian Sponge,10/30/2016 13:51,afternoon,weekend
+70,Fudge,10/30/2016 13:54,afternoon,weekend
+71,Muffin,10/30/2016 13:56,afternoon,weekend
+72,Coffee,10/30/2016 14:21,afternoon,weekend
+72,Bread,10/30/2016 14:21,afternoon,weekend
+73,Bread,10/30/2016 14:22,afternoon,weekend
+74,Coffee,10/30/2016 14:24,afternoon,weekend
+74,Bread,10/30/2016 14:24,afternoon,weekend
+75,Jam,10/30/2016 14:32,afternoon,weekend
+75,Frittata,10/30/2016 14:32,afternoon,weekend
+76,Coffee,10/30/2016 14:32,afternoon,weekend
+77,Scandinavian,10/30/2016 14:35,afternoon,weekend
+78,Fudge,10/30/2016 14:42,afternoon,weekend
+79,Fudge,10/30/2016 14:45,afternoon,weekend
+79,Tea,10/30/2016 14:45,afternoon,weekend
+79,Coffee,10/30/2016 14:45,afternoon,weekend
+79,Muffin,10/30/2016 14:45,afternoon,weekend
+80,Frittata,10/30/2016 14:48,afternoon,weekend
+80,Bread,10/30/2016 14:48,afternoon,weekend
+80,Coffee,10/30/2016 14:48,afternoon,weekend
+81,Coffee,10/31/2016 8:28,morning,weekday
+81,Cake,10/31/2016 8:28,morning,weekday
+82,Tartine,10/31/2016 8:47,morning,weekday
+82,Bread,10/31/2016 8:47,morning,weekday
+83,Coffee,10/31/2016 8:57,morning,weekday
+83,Bread,10/31/2016 8:57,morning,weekday
+84,Bread,10/31/2016 9:04,morning,weekday
+85,Coffee,10/31/2016 9:10,morning,weekday
+85,Coffee,10/31/2016 9:10,morning,weekday
+85,Pastry,10/31/2016 9:10,morning,weekday
+85,Medialuna,10/31/2016 9:10,morning,weekday
+86,Juice,10/31/2016 9:11,morning,weekday
+87,Bread,10/31/2016 9:12,morning,weekday
+88,Coffee,10/31/2016 9:16,morning,weekday
+88,Coffee,10/31/2016 9:16,morning,weekday
+88,Jam,10/31/2016 9:16,morning,weekday
+89,Bread,10/31/2016 9:19,morning,weekday
+90,Bread,10/31/2016 9:20,morning,weekday
+90,Coffee,10/31/2016 9:20,morning,weekday
+91,Tea,10/31/2016 9:22,morning,weekday
+92,Coffee,10/31/2016 9:27,morning,weekday
+93,Bread,10/31/2016 9:29,morning,weekday
+93,Coke,10/31/2016 9:29,morning,weekday
+94,Coffee,10/31/2016 9:39,morning,weekday
+94,Coffee,10/31/2016 9:39,morning,weekday
+95,Tea,10/31/2016 9:43,morning,weekday
+95,Pastry,10/31/2016 9:43,morning,weekday
+95,Farm House,10/31/2016 9:43,morning,weekday
+96,Pastry,10/31/2016 9:46,morning,weekday
+96,Pastry,10/31/2016 9:46,morning,weekday
+96,Coffee,10/31/2016 9:46,morning,weekday
+96,Juice,10/31/2016 9:46,morning,weekday
+97,Coffee,10/31/2016 9:51,morning,weekday
+97,Pastry,10/31/2016 9:51,morning,weekday
+97,Juice,10/31/2016 9:51,morning,weekday
+98,Farm House,10/31/2016 9:52,morning,weekday
+99,Pastry,10/31/2016 9:56,morning,weekday
+99,Pastry,10/31/2016 9:56,morning,weekday
+99,Coffee,10/31/2016 9:56,morning,weekday
+99,Bread,10/31/2016 9:56,morning,weekday
+100,Bread,10/31/2016 9:58,morning,weekday
+101,Coffee,10/31/2016 10:04,morning,weekday
+101,Pastry,10/31/2016 10:04,morning,weekday
+102,Farm House,10/31/2016 10:04,morning,weekday
+103,Bread,10/31/2016 10:07,morning,weekday
+104,Coffee,10/31/2016 10:12,morning,weekday
+104,Coffee,10/31/2016 10:12,morning,weekday
+104,Medialuna,10/31/2016 10:12,morning,weekday
+104,Muffin,10/31/2016 10:12,morning,weekday
+104,Coffee,10/31/2016 10:12,morning,weekday
+105,Coffee,10/31/2016 10:21,morning,weekday
+105,Tea,10/31/2016 10:21,morning,weekday
+105,Cake,10/31/2016 10:21,morning,weekday
+106,Coffee,10/31/2016 10:24,morning,weekday
+106,Coffee,10/31/2016 10:24,morning,weekday
+106,Pastry,10/31/2016 10:24,morning,weekday
+106,Pastry,10/31/2016 10:24,morning,weekday
+107,Coffee,10/31/2016 10:27,morning,weekday
+107,Tea,10/31/2016 10:27,morning,weekday
+108,Farm House,10/31/2016 10:31,morning,weekday
+108,Muffin,10/31/2016 10:31,morning,weekday
+109,Bread,10/31/2016 10:35,morning,weekday
+109,Muffin,10/31/2016 10:35,morning,weekday
+109,Pastry,10/31/2016 10:35,morning,weekday
+110,Pastry,10/31/2016 10:36,morning,weekday
+111,Coffee,10/31/2016 10:38,morning,weekday
+112,Coffee,10/31/2016 10:59,morning,weekday
+113,Coffee,10/31/2016 11:02,morning,weekday
+113,Cake,10/31/2016 11:02,morning,weekday
+114,Farm House,10/31/2016 11:05,morning,weekday
+115,Bread,10/31/2016 11:08,morning,weekday
+116,Coffee,10/31/2016 11:11,morning,weekday
+117,Cookies,10/31/2016 11:13,morning,weekday
+117,Cake,10/31/2016 11:13,morning,weekday
+117,Coffee,10/31/2016 11:13,morning,weekday
+117,My-5 Fruit Shoot,10/31/2016 11:13,morning,weekday
+118,Cookies,10/31/2016 11:18,morning,weekday
+118,Cookies,10/31/2016 11:18,morning,weekday
+118,Tea,10/31/2016 11:18,morning,weekday
+118,Pastry,10/31/2016 11:18,morning,weekday
+119,Coffee,10/31/2016 11:25,morning,weekday
+119,Coffee,10/31/2016 11:25,morning,weekday
+119,Muffin,10/31/2016 11:25,morning,weekday
+120,Farm House,10/31/2016 11:29,morning,weekday
+121,Coffee,10/31/2016 11:30,morning,weekday
+121,Bread,10/31/2016 11:30,morning,weekday
+122,Cookies,10/31/2016 11:37,morning,weekday
+123,Jam,10/31/2016 11:42,morning,weekday
+123,Coffee,10/31/2016 11:42,morning,weekday
+123,Coffee,10/31/2016 11:42,morning,weekday
+123,Juice,10/31/2016 11:42,morning,weekday
+124,Coffee,10/31/2016 11:43,morning,weekday
+124,Soup,10/31/2016 11:43,morning,weekday
+125,Tea,10/31/2016 11:47,morning,weekday
+126,Coffee,10/31/2016 11:52,morning,weekday
+126,Jam,10/31/2016 11:52,morning,weekday
+127,Farm House,10/31/2016 11:53,morning,weekday
+128,Tartine,10/31/2016 11:55,morning,weekday
+128,Coffee,10/31/2016 11:55,morning,weekday
+128,Tea,10/31/2016 11:55,morning,weekday
+129,Coffee,10/31/2016 11:59,morning,weekday
+129,Coffee,10/31/2016 11:59,morning,weekday
+129,Cake,10/31/2016 11:59,morning,weekday
+130,Coffee,10/31/2016 12:03,afternoon,weekday
+130,Coffee,10/31/2016 12:03,afternoon,weekday
+130,Muffin,10/31/2016 12:03,afternoon,weekday
+131,Bread,10/31/2016 12:08,afternoon,weekday
+131,Coffee,10/31/2016 12:08,afternoon,weekday
+132,Tea,10/31/2016 12:14,afternoon,weekday
+132,Juice,10/31/2016 12:14,afternoon,weekday
+132,Pick and Mix Bowls,10/31/2016 12:14,afternoon,weekday
+132,Cookies,10/31/2016 12:14,afternoon,weekday
+133,Hearty & Seasonal,10/31/2016 12:16,afternoon,weekday
+133,Soup,10/31/2016 12:16,afternoon,weekday
+134,Hearty & Seasonal,10/31/2016 12:19,afternoon,weekday
+134,Tea,10/31/2016 12:19,afternoon,weekday
+134,Farm House,10/31/2016 12:19,afternoon,weekday
+135,Bread,10/31/2016 12:20,afternoon,weekday
+136,Tea,10/31/2016 12:27,afternoon,weekday
+136,Soup,10/31/2016 12:27,afternoon,weekday
+137,Farm House,10/31/2016 12:37,afternoon,weekday
+138,Soup,10/31/2016 12:43,afternoon,weekday
+138,Hearty & Seasonal,10/31/2016 12:43,afternoon,weekday
+138,Coffee,10/31/2016 12:43,afternoon,weekday
+139,Bread,10/31/2016 12:50,afternoon,weekday
+139,Muffin,10/31/2016 12:50,afternoon,weekday
+139,Hearty & Seasonal,10/31/2016 12:50,afternoon,weekday
+140,Coffee,10/31/2016 12:53,afternoon,weekday
+140,Coffee,10/31/2016 12:53,afternoon,weekday
+140,Cookies,10/31/2016 12:53,afternoon,weekday
+141,Bread,10/31/2016 12:54,afternoon,weekday
+142,Tea,10/31/2016 12:56,afternoon,weekday
+142,Muffin,10/31/2016 12:56,afternoon,weekday
+143,Tea,10/31/2016 12:59,afternoon,weekday
+144,Soup,10/31/2016 13:02,afternoon,weekday
+144,Hearty & Seasonal,10/31/2016 13:02,afternoon,weekday
+145,Coffee,10/31/2016 13:05,afternoon,weekday
+145,Tea,10/31/2016 13:05,afternoon,weekday
+145,Focaccia,10/31/2016 13:05,afternoon,weekday
+146,Sandwich,10/31/2016 13:08,afternoon,weekday
+147,Tartine,10/31/2016 13:09,afternoon,weekday
+147,Coffee,10/31/2016 13:09,afternoon,weekday
+148,Fudge,10/31/2016 13:21,afternoon,weekday
+148,Coffee,10/31/2016 13:21,afternoon,weekday
+148,Coffee,10/31/2016 13:21,afternoon,weekday
+149,Coffee,10/31/2016 13:26,afternoon,weekday
+150,Bread,10/31/2016 13:31,afternoon,weekday
+151,Coke,10/31/2016 13:50,afternoon,weekday
+151,Soup,10/31/2016 13:50,afternoon,weekday
+152,Muffin,10/31/2016 13:51,afternoon,weekday
+153,Tea,10/31/2016 13:55,afternoon,weekday
+153,Coffee,10/31/2016 13:55,afternoon,weekday
+153,Cookies,10/31/2016 13:55,afternoon,weekday
+153,Muffin,10/31/2016 13:55,afternoon,weekday
+154,Mighty Protein,10/31/2016 14:00,afternoon,weekday
+154,Hearty & Seasonal,10/31/2016 14:00,afternoon,weekday
+154,Coffee,10/31/2016 14:00,afternoon,weekday
+154,Coke,10/31/2016 14:00,afternoon,weekday
+155,Tea,10/31/2016 14:01,afternoon,weekday
+155,Muffin,10/31/2016 14:01,afternoon,weekday
+155,Sandwich,10/31/2016 14:01,afternoon,weekday
+156,Coffee,10/31/2016 14:04,afternoon,weekday
+156,Muffin,10/31/2016 14:04,afternoon,weekday
+157,Coffee,10/31/2016 14:05,afternoon,weekday
+157,Bread,10/31/2016 14:05,afternoon,weekday
+158,Coffee,10/31/2016 14:20,afternoon,weekday
+158,Muffin,10/31/2016 14:20,afternoon,weekday
+159,Bread,10/31/2016 14:22,afternoon,weekday
+159,Hot chocolate,10/31/2016 14:22,afternoon,weekday
+159,Cookies,10/31/2016 14:22,afternoon,weekday
+160,Mineral water,10/31/2016 14:35,afternoon,weekday
+160,Muffin,10/31/2016 14:35,afternoon,weekday
+161,Tea,10/31/2016 14:42,afternoon,weekday
+162,Muffin,10/31/2016 14:44,afternoon,weekday
+163,Coffee,10/31/2016 14:47,afternoon,weekday
+163,Juice,10/31/2016 14:47,afternoon,weekday
+164,Coffee,10/31/2016 14:47,afternoon,weekday
+164,Muffin,10/31/2016 14:47,afternoon,weekday
+165,Tea,10/31/2016 14:48,afternoon,weekday
+166,Coffee,10/31/2016 14:49,afternoon,weekday
+166,Muffin,10/31/2016 14:49,afternoon,weekday
+167,Sandwich,10/31/2016 14:50,afternoon,weekday
+167,Hearty & Seasonal,10/31/2016 14:50,afternoon,weekday
+167,Bread,10/31/2016 14:50,afternoon,weekday
+167,Mineral water,10/31/2016 14:50,afternoon,weekday
+168,Tea,10/31/2016 14:56,afternoon,weekday
+168,Coffee,10/31/2016 14:56,afternoon,weekday
+169,Mineral water,10/31/2016 15:05,afternoon,weekday
+170,Coffee,10/31/2016 15:16,afternoon,weekday
+171,Soup,10/31/2016 15:20,afternoon,weekday
+171,Tea,10/31/2016 15:20,afternoon,weekday
+172,Bread,10/31/2016 17:06,evening,weekday
+172,Coffee,10/31/2016 17:06,evening,weekday
+173,Bread,10/31/2016 17:08,evening,weekday
+173,Muffin,10/31/2016 17:08,evening,weekday
+174,Coffee,10/31/2016 17:40,evening,weekday
+175,Bread,10/31/2016 17:49,evening,weekday
+176,Cookies,10/31/2016 18:22,evening,weekday
+176,Coffee,10/31/2016 18:22,evening,weekday
+178,Coffee,11/1/2016 7:51,morning,weekday
+178,Pastry,11/1/2016 7:51,morning,weekday
+179,Coffee,11/1/2016 8:20,morning,weekday
+179,Pastry,11/1/2016 8:20,morning,weekday
+180,Jam,11/1/2016 8:22,morning,weekday
+180,Tea,11/1/2016 8:22,morning,weekday
+181,Tea,11/1/2016 8:45,morning,weekday
+181,Tea,11/1/2016 8:45,morning,weekday
+182,Pastry,11/1/2016 9:07,morning,weekday
+182,Pastry,11/1/2016 9:07,morning,weekday
+182,Ella's Kitchen Pouches,11/1/2016 9:07,morning,weekday
+183,Pastry,11/1/2016 9:09,morning,weekday
+184,Farm House,11/1/2016 9:26,morning,weekday
+184,Tea,11/1/2016 9:26,morning,weekday
+185,Tea,11/1/2016 9:29,morning,weekday
+185,Victorian Sponge,11/1/2016 9:29,morning,weekday
+186,Tea,11/1/2016 9:43,morning,weekday
+186,Pastry,11/1/2016 9:43,morning,weekday
+187,Bread,11/1/2016 10:02,morning,weekday
+188,Coffee,11/1/2016 10:04,morning,weekday
+189,Bread,11/1/2016 10:29,morning,weekday
+189,Coffee,11/1/2016 10:29,morning,weekday
+190,Coffee,11/1/2016 10:34,morning,weekday
+190,Pastry,11/1/2016 10:34,morning,weekday
+190,Pastry,11/1/2016 10:34,morning,weekday
+191,Soup,11/1/2016 10:50,morning,weekday
+191,Tea,11/1/2016 10:50,morning,weekday
+192,Bread,11/1/2016 10:56,morning,weekday
+193,Coffee,11/1/2016 11:00,morning,weekday
+194,Bread,11/1/2016 11:04,morning,weekday
+194,Bread,11/1/2016 11:04,morning,weekday
+195,Bread,11/1/2016 11:06,morning,weekday
+195,Scandinavian,11/1/2016 11:06,morning,weekday
+196,Bread,11/1/2016 11:08,morning,weekday
+196,Cake,11/1/2016 11:08,morning,weekday
+196,Cookies,11/1/2016 11:08,morning,weekday
+197,Coffee,11/1/2016 11:10,morning,weekday
+197,Coffee,11/1/2016 11:10,morning,weekday
+197,Tea,11/1/2016 11:10,morning,weekday
+198,Coffee,11/1/2016 11:11,morning,weekday
+198,Cookies,11/1/2016 11:11,morning,weekday
+199,Coffee,11/1/2016 11:13,morning,weekday
+200,Bread,11/1/2016 11:16,morning,weekday
+201,Coffee,11/1/2016 11:22,morning,weekday
+201,Pastry,11/1/2016 11:22,morning,weekday
+202,Coffee,11/1/2016 11:23,morning,weekday
+202,Coffee,11/1/2016 11:23,morning,weekday
+203,Coffee,11/1/2016 11:25,morning,weekday
+204,Scandinavian,11/1/2016 11:30,morning,weekday
+204,Bread,11/1/2016 11:30,morning,weekday
+205,Coffee,11/1/2016 11:49,morning,weekday
+205,Coffee,11/1/2016 11:49,morning,weekday
+205,Pastry,11/1/2016 11:49,morning,weekday
+206,Scandinavian,11/1/2016 11:54,morning,weekday
+206,Coffee,11/1/2016 11:54,morning,weekday
+206,Pastry,11/1/2016 11:54,morning,weekday
+207,Hearty & Seasonal,11/1/2016 12:03,afternoon,weekday
+207,Coffee,11/1/2016 12:03,afternoon,weekday
+207,Muffin,11/1/2016 12:03,afternoon,weekday
+208,Bread,11/1/2016 12:10,afternoon,weekday
+209,Coffee,11/1/2016 12:10,afternoon,weekday
+210,Scandinavian,11/1/2016 12:12,afternoon,weekday
+211,Soup,11/1/2016 12:15,afternoon,weekday
+211,Coffee,11/1/2016 12:15,afternoon,weekday
+212,Coffee,11/1/2016 12:20,afternoon,weekday
+212,Cookies,11/1/2016 12:20,afternoon,weekday
+212,Tartine,11/1/2016 12:20,afternoon,weekday
+213,Bread,11/1/2016 12:22,afternoon,weekday
+214,Bread,11/1/2016 12:26,afternoon,weekday
+214,Tea,11/1/2016 12:26,afternoon,weekday
+214,Tea,11/1/2016 12:26,afternoon,weekday
+215,Pastry,11/1/2016 12:30,afternoon,weekday
+215,Coffee,11/1/2016 12:30,afternoon,weekday
+216,Tartine,11/1/2016 12:31,afternoon,weekday
+216,Coffee,11/1/2016 12:31,afternoon,weekday
+217,Bread,11/1/2016 12:33,afternoon,weekday
+217,Cookies,11/1/2016 12:33,afternoon,weekday
+218,Sandwich,11/1/2016 12:37,afternoon,weekday
+219,Tartine,11/1/2016 12:41,afternoon,weekday
+220,Bread,11/1/2016 12:49,afternoon,weekday
+220,Pastry,11/1/2016 12:49,afternoon,weekday
+221,Bread,11/1/2016 12:53,afternoon,weekday
+221,Scandinavian,11/1/2016 12:53,afternoon,weekday
+222,Scandinavian,11/1/2016 13:08,afternoon,weekday
+223,Alfajores,11/1/2016 13:11,afternoon,weekday
+223,Coffee,11/1/2016 13:11,afternoon,weekday
+224,Coffee,11/1/2016 13:15,afternoon,weekday
+225,Coffee,11/1/2016 13:19,afternoon,weekday
+225,Coke,11/1/2016 13:19,afternoon,weekday
+225,Soup,11/1/2016 13:19,afternoon,weekday
+226,Cake,11/1/2016 13:21,afternoon,weekday
+227,Tea,11/1/2016 13:31,afternoon,weekday
+227,Sandwich,11/1/2016 13:31,afternoon,weekday
+227,Soup,11/1/2016 13:31,afternoon,weekday
+228,Coffee,11/1/2016 13:33,afternoon,weekday
+229,Hearty & Seasonal,11/1/2016 13:37,afternoon,weekday
+229,Bread,11/1/2016 13:37,afternoon,weekday
+230,Alfajores,11/1/2016 13:41,afternoon,weekday
+231,Cake,11/1/2016 13:45,afternoon,weekday
+232,Tea,11/1/2016 14:10,afternoon,weekday
+232,Tea,11/1/2016 14:10,afternoon,weekday
+232,Bread,11/1/2016 14:10,afternoon,weekday
+233,Coffee,11/1/2016 14:13,afternoon,weekday
+233,Tea,11/1/2016 14:13,afternoon,weekday
+233,Bread,11/1/2016 14:13,afternoon,weekday
+233,Soup,11/1/2016 14:13,afternoon,weekday
+234,Coffee,11/1/2016 14:14,afternoon,weekday
+234,Coffee,11/1/2016 14:14,afternoon,weekday
+235,Scandinavian,11/1/2016 14:18,afternoon,weekday
+236,Fudge,11/1/2016 14:22,afternoon,weekday
+237,Coffee,11/1/2016 14:25,afternoon,weekday
+237,Sandwich,11/1/2016 14:25,afternoon,weekday
+238,Tea,11/1/2016 14:37,afternoon,weekday
+238,Bread,11/1/2016 14:37,afternoon,weekday
+238,Cookies,11/1/2016 14:37,afternoon,weekday
+238,Pastry,11/1/2016 14:37,afternoon,weekday
+239,Muffin,11/1/2016 14:37,afternoon,weekday
+240,Scandinavian,11/1/2016 14:42,afternoon,weekday
+241,Jam,11/1/2016 14:54,afternoon,weekday
+241,Tea,11/1/2016 14:54,afternoon,weekday
+242,Juice,11/1/2016 15:02,afternoon,weekday
+242,Tea,11/1/2016 15:02,afternoon,weekday
+242,Alfajores,11/1/2016 15:02,afternoon,weekday
+243,Cake,11/1/2016 15:18,afternoon,weekday
+243,Muffin,11/1/2016 15:18,afternoon,weekday
+243,Coffee,11/1/2016 15:18,afternoon,weekday
+243,Soup,11/1/2016 15:18,afternoon,weekday
+244,Hot chocolate,11/1/2016 15:33,afternoon,weekday
+244,Cake,11/1/2016 15:33,afternoon,weekday
+244,Coffee,11/1/2016 15:33,afternoon,weekday
+245,Cake,11/1/2016 15:37,afternoon,weekday
+245,Cookies,11/1/2016 15:37,afternoon,weekday
+246,Tea,11/1/2016 15:48,afternoon,weekday
+246,Bread,11/1/2016 15:48,afternoon,weekday
+247,Alfajores,11/1/2016 16:07,afternoon,weekday
+247,Coffee,11/1/2016 16:07,afternoon,weekday
+247,Coffee,11/1/2016 16:07,afternoon,weekday
+247,Coffee,11/1/2016 16:07,afternoon,weekday
+247,Juice,11/1/2016 16:07,afternoon,weekday
+248,Coffee,11/1/2016 16:08,afternoon,weekday
+248,Tea,11/1/2016 16:08,afternoon,weekday
+248,Soup,11/1/2016 16:08,afternoon,weekday
+249,Hot chocolate,11/1/2016 16:10,afternoon,weekday
+250,Cookies,11/1/2016 16:10,afternoon,weekday
+251,Coffee,11/1/2016 16:26,afternoon,weekday
+251,Medialuna,11/1/2016 16:26,afternoon,weekday
+252,Bread,11/1/2016 16:28,afternoon,weekday
+252,Eggs,11/1/2016 16:28,afternoon,weekday
+253,Scandinavian,11/1/2016 17:46,evening,weekday
+254,Medialuna,11/1/2016 18:43,evening,weekday
+255,Coffee,11/2/2016 8:02,morning,weekday
+255,Coffee,11/2/2016 8:02,morning,weekday
+255,Pastry,11/2/2016 8:02,morning,weekday
+256,Coffee,11/2/2016 8:05,morning,weekday
+256,Bread,11/2/2016 8:05,morning,weekday
+257,Bread,11/2/2016 8:07,morning,weekday
+257,Coffee,11/2/2016 8:07,morning,weekday
+257,Pastry,11/2/2016 8:07,morning,weekday
+258,Coffee,11/2/2016 8:08,morning,weekday
+258,Pastry,11/2/2016 8:08,morning,weekday
+259,Pastry,11/2/2016 8:11,morning,weekday
+260,Coffee,11/2/2016 8:12,morning,weekday
+261,Coffee,11/2/2016 8:12,morning,weekday
+262,Coffee,11/2/2016 8:29,morning,weekday
+262,Hot chocolate,11/2/2016 8:29,morning,weekday
+262,Pastry,11/2/2016 8:29,morning,weekday
+263,Coke,11/2/2016 8:53,morning,weekday
+264,Coffee,11/2/2016 9:02,morning,weekday
+264,Jam,11/2/2016 9:02,morning,weekday
+265,Tea,11/2/2016 9:03,morning,weekday
+266,Bread,11/2/2016 9:05,morning,weekday
+266,Pastry,11/2/2016 9:05,morning,weekday
+267,Coffee,11/2/2016 9:18,morning,weekday
+267,Alfajores,11/2/2016 9:18,morning,weekday
+267,Farm House,11/2/2016 9:18,morning,weekday
+268,Tea,11/2/2016 9:22,morning,weekday
+268,Pastry,11/2/2016 9:22,morning,weekday
+269,Bread,11/2/2016 9:25,morning,weekday
+270,Coffee,11/2/2016 9:27,morning,weekday
